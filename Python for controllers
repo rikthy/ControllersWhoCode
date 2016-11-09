@@ -1,0 +1,26 @@
+A simple yet effective programming language. Easy tconsoleo learn and powerful.
+
+This file  keeps my progress in learning to code in python.
+
+Goals are to make small programs that my co.workers can use to register data or make records over systemusers or other.
+
+To do list:
+1. Hello World #Completed print "My first string!"
+2. Input from user in console "raw_input("Give me a number: ") # completed
+3. Varibles "string" decimal float 12.00002 #completed
+4. Open and save files. # Append, writeline, write, trancate(delete)
+5. Define a function my_firstFunction(arg1, arg2): # Completed 
+6. Modules from sys import argv #Completed
+7. Aritmetic operators # completed but with a need to learn more about modulus and what to use it for.
+8. Logic If, Do-while, for, ifnot, do-until
+9. Create files
+10. Connect to  sql-server
+11. Make a datareader
+12. Create, Delete, insert and update records
+13. Search and autofill textboxes in programs from tables
+14. Secure that no one else modifys current records or posts at the same time.
+15. GUI that are nice and do not look home made...
+16. Server side language and user scripts
+17. APIs important for accessing large data
+18. Exporting data from table to a csv file for easy import to excel
+19. 
